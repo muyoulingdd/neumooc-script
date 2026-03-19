@@ -2,8 +2,8 @@
 
 ## 1. 对比对象
 
-- 改版前：`NEUMOOC 智能助手.js`
-- 改版后：`NEUMOOC 智能助手改版后.js`
+- 改版前：`neumooc-script.user.js`（改版前版本）
+- 改版后：`neumooc-script.user.js`（当前仓库版本）
 
 ## 2. 总体结论
 
